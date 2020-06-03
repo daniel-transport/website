@@ -22,6 +22,14 @@ module.exports = {
 			},
 		},
 		{
+			resolve: 'gatsby-source-filesystem',
+			options: {
+				name: 'icons',
+				path: `${__dirname}/src/assets/icons`,
+			},
+		},
+		'gatsby-plugin-react-helmet',
+		{
 			resolve: 'gatsby-plugin-manifest',
 			options: {
 				name: 'Daniel - Agencja Transportowa w Warszawie',
