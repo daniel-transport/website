@@ -21,5 +21,18 @@ module.exports = {
 				views: path.join(__dirname, 'src/views'),
 			},
 		},
+		{
+			resolve: 'gatsby-plugin-manifest',
+			options: {
+				name: 'Daniel - Agencja Transportowa w Warszawie',
+				short_name: 'Daniel',
+				lang: 'pl',
+				start_url: '/',
+				background_color: '#6A1485',
+				theme_color: '#0B0628',
+				display: 'minimal-ui',
+				icon: 'src/assets/icons/logomark.png',
+			},
+		},
 	],
 };
