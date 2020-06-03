@@ -30,6 +30,13 @@ module.exports = {
 		},
 		'gatsby-plugin-react-helmet',
 		{
+			resolve: 'gatsby-plugin-styled-components',
+			options: {
+				displayName: false,
+				fileName: false,
+			},
+		},
+		{
 			resolve: 'gatsby-plugin-manifest',
 			options: {
 				name: 'Daniel - Agencja Transportowa w Warszawie',
