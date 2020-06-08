@@ -28,6 +28,14 @@ module.exports = {
 				path: `${__dirname}/src/assets/icons`,
 			},
 		},
+		{
+			resolve: 'gatsby-source-filesystem',
+			options: {
+				name: 'content',
+				path: `${__dirname}/content`,
+			},
+		},
+		'gatsby-transformer-yaml',
 		'gatsby-plugin-react-helmet',
 		{
 			resolve: 'gatsby-plugin-styled-components',
