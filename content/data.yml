@@ -13,3 +13,9 @@ menu:
     to: '/#dane_firmy'
   - title: 'kontakt'
     to: '/#kontakt'
+hero:
+  title: Agencja transportowa Daniel
+  subtitle: ... i jesteś na właściwej drodze!
+  cover: 
+    file: img/hero.jpg
+    alt: mapa Europy stworzona z geometrycznych kształtów i rozbłysków
