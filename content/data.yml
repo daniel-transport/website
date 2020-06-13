@@ -4,3 +4,12 @@ logo:
   cover:
     file: icons/logo.svg
     alt: logo agencji transportowej Daniel
+menu:
+  - title: 'o nas'
+    to: '/#o_nas'
+  - title: 'oferta'
+    to: '/#oferta'
+  - title: 'dane firmy'
+    to: '/#dane_firmy'
+  - title: 'kontakt'
+    to: '/#kontakt'
