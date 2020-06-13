@@ -19,3 +19,16 @@ hero:
   cover: 
     file: img/hero.jpg
     alt: mapa Europy stworzona z geometrycznych kształtów i rozbłysków
+about:
+  title: O nas
+  cards:
+    - title: Kim jesteśmy?
+      text: 'Agencja Transportowa DANIEL jest renomowaną firmą transportowo- spedycyjną, istniejącą na rynku od 1989 roku. Od początku naszej działalności za cel pierwszoplanowy postawiliśmy sobie zapewnienie naszym Klientom pełnego komfortu i zadowolenia. Dzięki temu zdobyliśmy zaufanie wielu firm, z którymi współpracujemy od wielu lat.'
+      cover:
+        file: icons/hands.svg
+        alt: gest podanych dłoni
+    - title: Czym się zajmujemy?
+      text: 'Wachlarz naszych usług obejmuje praktycznie wszystkie czynności związane z przemieszczaniem różnej wielkości paczek na terenie Rzeczpospolitej Polski transportem drogowym krajowym i międzynarodowym.'
+      cover:
+        file: icons/gift.svg
+        alt: spakowany prezent leżący na dłoni
