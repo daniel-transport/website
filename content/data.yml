@@ -55,3 +55,30 @@ offer:
       cover:
         file: icons/trailer.svg
         alt: ikona samochodu ciężarowego z przyczepą
+contact:
+  title: Dane firmy
+  cards:
+    - title: Adres
+      text: "Agencja Transportowa\nDANIEL S.C.\nFryc Mirosław, Sęczek Marek\nul. Trakt Brzeski 55\n05-077 Warszawa Wesoła\nNIP: 113-00-84-958"
+      to: 'https://goo.gl/maps/iWcWoKirvfhN5hWS9'
+      cover:
+        file: icons/map.svg
+        alt: ikona pinezki wbitej w mapę
+    - title: Komórka
+      text: +48 601 620 890
+      to: 'tel:+48601620890'
+      cover:
+        file: icons/mobile.svg
+        alt: ikona telefonu komórkowego
+    - title: Stacjonarny
+      text: +48 22 773 22 72
+      to: 'tel:+48227732272'
+      cover:
+        file: icons/phone.svg
+        alt: ikona słuchawki telefonu stacjonarnego
+    - title: Mail
+      text: info@daniel.com.pl
+      to: 'mailto:info@daniel.com.pl'
+      cover:
+        file: icons/mail.svg
+        alt: ikona koperty pocztowej
