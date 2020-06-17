@@ -32,3 +32,26 @@ about:
       cover:
         file: icons/gift.svg
         alt: spakowany prezent leżący na dłoni
+offer:
+  title: Co oferujemy naszym Klientom?
+  text: Transport przesyłek różnej wielkości na terenie kraju oraz na drogach międzynarodowych. W trosce o bezpieczeństwo ładunku proponujemy pełny pakiet ubezpieczeń oraz stały nadzór nad przebiegiem usług.
+  subtitle: 'Do przewozu przesyłek Klienci mają do wyboru:'
+  button:
+    title: zapytaj o wycenę
+    to: /#kontakt
+  cards:
+    - title: samochody dostawcze
+      text: Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure
+      cover:
+        file: icons/delivery.svg
+        alt: ikona samochodu dostawczego
+    - title: samochody ciężarowe
+      text: Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure
+      cover:
+        file: icons/truck.svg
+        alt: ikona samochodu ciężarowego
+    - title: przyczepy i naczepy
+      text: Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure
+      cover:
+        file: icons/trailer.svg
+        alt: ikona samochodu ciężarowego z przyczepą
