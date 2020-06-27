@@ -85,3 +85,6 @@ contact:
 map: 
   to: 52.22412,21.23174
   file: icons/logomark.svg
+form:
+  title: Formularz kontaktowy
+  text: Dane osobowe z wysłanego zapytania przetwarzamy do celów marketingowych. Mają Państwo prawo dostępu do swoich danych, ich zmiany lub usunięcia. Klikając przycisk “wyślij wiadomośc” akceptują Państwo naszą politykę przetwarzania danych osobowych i zgadzanię się na przetwarzanie swoich danych osobowych.
