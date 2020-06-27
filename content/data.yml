@@ -82,3 +82,6 @@ contact:
       cover:
         file: icons/mail.svg
         alt: ikona koperty pocztowej
+map: 
+  to: 52.22412,21.23174
+  file: icons/logomark.svg
