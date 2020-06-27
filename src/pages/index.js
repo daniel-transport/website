@@ -6,6 +6,7 @@ import About from 'views/About';
 import Offer from 'views/Offer';
 import Contact from 'views/Contact';
 import Map from 'views/Map';
+import Form from 'views/Form';
 
 const IndexPage = () => (
 	<>
@@ -15,6 +16,7 @@ const IndexPage = () => (
 		<Offer id="oferta" />
 		<Contact id="dane_firmy" />
 		<Map id="mapa" />
+		<Form id="kontakt" />
 	</>
 );
 
