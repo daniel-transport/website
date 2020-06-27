@@ -88,3 +88,6 @@ map:
 form:
   title: Formularz kontaktowy
   text: Dane osobowe z wysłanego zapytania przetwarzamy do celów marketingowych. Mają Państwo prawo dostępu do swoich danych, ich zmiany lub usunięcia. Klikając przycisk “wyślij wiadomośc” akceptują Państwo naszą politykę przetwarzania danych osobowych i zgadzanię się na przetwarzanie swoich danych osobowych.
+footer:
+  title: Stopka
+  file: files/polityka_danych_osobowych.pdf
