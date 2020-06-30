@@ -91,3 +91,9 @@ form:
 footer:
   title: Stopka
   file: files/polityka_danych_osobowych.pdf
+notFound:
+  title: Strony nie odnaleziono
+  text: Niestety podana strona nie istnieje
+  button:
+    title: Wróć do strony głównej
+    to: /
