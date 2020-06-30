@@ -1,0 +1,6 @@
+logo:
+  title: wróć do strony głównej
+  to: /
+  cover:
+    file: icons/logo.svg
+    alt: logo agencji transportowej Daniel
